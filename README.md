@@ -12,7 +12,7 @@
 
 ## Business Activities
 * Bitcoin which is concidered to be the first generation of cryptocurrency came up with the blockchain idea and decenteralized currency. Then came the second generation of cryptocurrency which is Ethereum which came up with the programing language to the blockchain. This allowed for other cryptocurencies and smart contracts to be programable on their platform.Both of Bitcoin and Ethereum relly on proof of work which requires enormous amount of Energy to make trasactions. This energy is consumed by the millions of GPUs and machines used to solve the mathematical problem to give access for the miner to process the trasaction. This results to higher trasaction fees (Gas Fees) for the users of the platforms and kills scallability because it is not sustainable and cannot supports millions of users.  Cardano, however, is focusing on the third generation of cryptocurrency. They want to crack down on scalabality, interoperibility and sustainability by basing their platform on proof of stake. Cardano does not intend to have one type of customer. They are looking on enabling smart contracts and a new decentralize finance (DeFi) while not having to compromise their system's security.One of their major innovations was the developpement of Ourobouros which is the first provably secure proof-of-stake protocol and the first blockchain protocol to be based on peer-reviewed reseach. Which tackles the unsustainability of other blockchains. It makes the blockchains cheaper to run. 
-- (Above I tried my best to answer all the questions in one paragraph)
+- (Above, I tried my best to answer all the questions in one paragraph)
 
 ## Landscape
 * Cardano's domain is Blockchain and Cryptocurrency.
