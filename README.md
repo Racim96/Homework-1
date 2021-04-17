@@ -43,5 +43,5 @@
 - Ouroboros: https://eprint.iacr.org/2016/889.pdf
 - Input|Output(Smart contracts): https://iohk.io/en/blog/posts/2021/04/08/smart-contracts-%E2%80%93-here-we-come/
 - Degital identity: https://www.zdnet.com/article/identity-management-101-how-digital-identity-works/
-- https://coinmarketcap.com/currencies/cardano/
-- https://www.investopedia.com/terms/p/proof-stake-pos.asp
+- Background: https://coinmarketcap.com/currencies/cardano/
+- Background https://www.investopedia.com/terms/p/proof-stake-pos.asp
