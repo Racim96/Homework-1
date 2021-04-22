@@ -16,7 +16,7 @@
 * Cryptocurrency has been around for a while now. Bitcoin was the first to come up with the blockchain idea. Then Ethereum came up with the program to the blockchain which allowed people create smart contracts and other cryptocurrencies. However now with more users accessing these platforms it has become more expensive to run the transactions. This is where proof of stake comes in and solves the unsustainability issue.
 * Other major companies/projects in this domain would be Bitcoin, Ethereum and ripple
 
-# Results
+## Results
 * The business impact of this company/project so far is that it is creating some type of competition in the crypto realm towards better more sustainable and scalable platform. They want to have a fairer and cheaper way to make transactions and operate on their blockchain. They want their community to be well off and have a good customer experience. This is pushing other platforms such as Ethereum to turn to proof of stake and ditch proof of work since it is expensive.
 * Some core metrics companies in this domain uses to measure success is transactions per second and market capital for cryptocurrency and blockchains. However, for platforms, it is more based on the number of users, scalability and security system. As of right now Cardano is still in the developing phase however their view and future seem very promising. ADA is doing relatively well with a Market Cap of $41B.
 * It is currently ranked #6 in the crypto realm based on their market cap
